@@ -1,2 +1,6 @@
 asfadskfsa
+<<<<<<< HEAD
 diese Änderung ist local wie die erste Zeile
+=======
+Änderung auf dem GitHub durchgeführt!1!
+>>>>>>> 61e693bc1cd144548b4a9dae324753fddf8a9316
